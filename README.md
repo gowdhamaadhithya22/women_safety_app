@@ -23,10 +23,6 @@ This mobile application prioritizes the safety of women by providing them with i
 
 We welcome contributions from the developer community to enhance the app's features and functionality. Please refer to the CONTRIBUTING.md file for guidelines.
 
-**License:**
-
-This project is licensed under the MIT License (refer to LICENSE.md for details).
-
 **Additional Considerations:**
 
 - **Privacy:** Emphasize user privacy and data security in the app and README.
